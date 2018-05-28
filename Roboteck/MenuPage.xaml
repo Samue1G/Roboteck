@@ -1,0 +1,54 @@
+﻿<Page x:Class="Roboteck.MenuPage"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Roboteck"
+      mc:Ignorable="d" 
+      d:DesignHeight="400" d:DesignWidth="300"
+      Title="MenuPage">
+    <Page.Resources>
+        <Style TargetType="{x:Type Button}">
+            <Style.Triggers>
+                <Trigger Property="IsPressed" Value="True">
+                    <Setter Property="RenderTransform">
+                        <Setter.Value>
+                            <ScaleTransform ScaleX="0.85" ScaleY="0.85"/>
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+            <Setter Property="RenderTransformOrigin" Value="0.5, 0.5"/>
+            <Setter Property="Template">
+                <Setter.Value>
+                    <ControlTemplate TargetType="{x:Type Button}">
+                        <Border x:Name="brdr" TextBlock.Foreground="{TemplateBinding Foreground}" Background="{TemplateBinding Background}" BorderBrush="{TemplateBinding BorderBrush}" BorderThickness="{TemplateBinding BorderThickness}">
+                            <ContentPresenter HorizontalAlignment="{TemplateBinding HorizontalContentAlignment}" VerticalAlignment="{TemplateBinding VerticalContentAlignment}" Content="{TemplateBinding Content}" />
+                        </Border>
+                    </ControlTemplate>
+                </Setter.Value>
+            </Setter>
+            <Setter Property="Background" Value="{DynamicResource {x:Static SystemColors.ControlBrushKey}}"/>
+        </Style>
+    </Page.Resources>
+    <Grid Name="MenuPageBlock" Background="#FFAA9A9A" Loaded="MenuPageBlock_Loaded">
+        <Label Content="Добро пожаловать" HorizontalAlignment="Left" Margin="57,10,0,0" VerticalAlignment="Top" FontFamily="Georgia" FontSize="20" Foreground="#FF745441"/>
+        <Label x:Name="userName" Content="Label" HorizontalAlignment="Left" Margin="122,43,0,0" VerticalAlignment="Top" FontFamily="Georgia" FontSize="16" Foreground="#FF745441"/>
+        <Button Margin="70.5,75,70.5,0" VerticalAlignment="Top" Height="80" Width="160" Click="Button_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Properties/StartButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button HorizontalAlignment="Left" Margin="70.5,161,70.5,0" VerticalAlignment="Top" Width="160" Name="Setting" Height="80" Click="Setting_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Properties/SettingsButton.png"/>
+            </Button.Background>
+        </Button>
+        <Button x:Name="Shutdown"  HorizontalAlignment="Left" Margin="70,247,0,0" VerticalAlignment="Top" Width="160" Height="80" Click="Shutdown_Click" BorderBrush="{x:Null}">
+            <Button.Background>
+                <ImageBrush ImageSource="Properties/MenuExit.png"/>
+            </Button.Background>
+        </Button>
+
+    </Grid>
+</Page>

@@ -1,0 +1,167 @@
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\App.g.cs
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\Roboteck_MarkupCompile.cache
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\Roboteck_MarkupCompile.lref
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\RoboteckMainPage.g.cs
+c:\users\sasha\source\repos\Roboteck\Roboteck\bin\Debug\Roboteck.exe.config
+c:\users\sasha\source\repos\Roboteck\Roboteck\bin\Debug\Roboteck.exe
+c:\users\sasha\source\repos\Roboteck\Roboteck\bin\Debug\Roboteck.pdb
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\RoboteckMainPage.baml
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\Roboteck.g.resources
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\Roboteck.Properties.Resources.resources
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\Roboteck.csproj.GenerateResource.cache
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\Roboteck.csproj.CoreCompileInputs.cache
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\Roboteck.exe
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\Roboteck.pdb
+c:\users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\Roboteck_Content.g.cs
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\MenuPage.g.cs
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\MenuPage.baml
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\Roboteck.csprojAssemblyReference.cache
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\GamePage.g.cs
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\RegistrationPage.g.cs
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\GamePage.baml
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\RegistrationPage.baml
+C:\Users\sasha\source\repos\Roboteck\Roboteck\bin\Debug\RoboteckBase.mdf
+C:\Users\sasha\source\repos\Roboteck\Roboteck\bin\Debug\RoboteckBase_log.ldf
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\SettingPage.g.cs
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\SettingPage.baml
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\ResultRobots.g.cs
+C:\Users\sasha\source\repos\Roboteck\Roboteck\obj\Debug\ResultRobots.baml
+G:\4 семестр\Курсач\Roboteck\Roboteck\bin\Debug\Roboteck.exe.config
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\Roboteck.exe
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\Roboteck.pdb
+G:\4 семестр\Курсач\Roboteck\Roboteck\bin\Debug\RoboteckBase.mdf
+G:\4 семестр\Курсач\Roboteck\Roboteck\bin\Debug\RoboteckBase_log.ldf
+G:\4 семестр\Курсач\Roboteck\Roboteck\bin\Debug\Roboteck.exe
+G:\4 семестр\Курсач\Roboteck\Roboteck\bin\Debug\Roboteck.pdb
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\Roboteck.csprojResolveAssemblyReference.cache
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\MenuPage.g.cs
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\GamePage.g.cs
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\RegistrationPage.g.cs
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\ResultRobots.g.cs
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\RoboteckMainPage.g.cs
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\SettingPage.g.cs
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\App.g.cs
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\Roboteck_Content.g.cs
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\Roboteck_MarkupCompile.cache
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\Roboteck_MarkupCompile.lref
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\MenuPage.baml
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\GamePage.baml
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\RegistrationPage.baml
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\ResultRobots.baml
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\RoboteckMainPage.baml
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\SettingPage.baml
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\Roboteck.g.resources
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\Roboteck.Properties.Resources.resources
+G:\4 семестр\Курсач\Roboteck\Roboteck\obj\Debug\Roboteck.csproj.GenerateResource.Cache
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\bin\Debug\RoboteckBase.mdf
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\bin\Debug\RoboteckBase_log.ldf
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\bin\Debug\Roboteck.exe.config
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\bin\Debug\Roboteck.exe
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\MenuPage.g.cs
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\GamePage.g.cs
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\RegistrationPage.g.cs
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\ResultRobots.g.cs
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\RoboteckMainPage.g.cs
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\SettingPage.g.cs
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\App.g.cs
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\Roboteck_Content.g.cs
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\Roboteck_MarkupCompile.cache
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\Roboteck_MarkupCompile.lref
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\MenuPage.baml
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\GamePage.baml
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\RegistrationPage.baml
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\ResultRobots.baml
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\RoboteckMainPage.baml
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\SettingPage.baml
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\Roboteck.g.resources
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\Roboteck.Properties.Resources.resources
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\Roboteck.csproj.GenerateResource.Cache
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\Roboteck.exe
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\Roboteck.pdb
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\bin\Debug\Roboteck.pdb
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\bin\Debug\RoboteckBase.mdf
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\bin\Debug\RoboteckBase_log.ldf
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\bin\Debug\Roboteck.exe.config
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\bin\Debug\Roboteck.exe
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\bin\Debug\Roboteck.pdb
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.csprojResolveAssemblyReference.cache
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\MenuPage.g.cs
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\GamePage.g.cs
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\RegistrationPage.g.cs
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\ResultRobots.g.cs
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\RoboteckMainPage.g.cs
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\SettingPage.g.cs
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\App.g.cs
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck_Content.g.cs
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck_MarkupCompile.cache
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck_MarkupCompile.lref
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\MenuPage.baml
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\GamePage.baml
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\RegistrationPage.baml
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\ResultRobots.baml
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\RoboteckMainPage.baml
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\SettingPage.baml
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.g.resources
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.Properties.Resources.resources
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.csproj.GenerateResource.Cache
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.csproj.CoreCompileInputs.cache
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.exe
+C:\Users\Student.DESKTOP-ISQ7PSP\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.pdb
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\bin\Debug\RoboteckBase.mdf
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\bin\Debug\RoboteckBase_log.ldf
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\bin\Debug\Roboteck.exe.config
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\bin\Debug\Roboteck.exe
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\bin\Debug\Roboteck.pdb
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.csprojResolveAssemblyReference.cache
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\MenuPage.g.cs
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\GamePage.g.cs
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\RegistrationPage.g.cs
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\ResultRobots.g.cs
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\RoboteckMainPage.g.cs
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\SettingPage.g.cs
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck_Content.g.cs
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck_MarkupCompile.cache
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck_MarkupCompile.lref
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\MenuPage.baml
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\GamePage.baml
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\RegistrationPage.baml
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\ResultRobots.baml
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\RoboteckMainPage.baml
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\SettingPage.baml
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.g.resources
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.Properties.Resources.resources
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.csproj.GenerateResource.Cache
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.exe
+C:\Users\student\Desktop\Roboteck - копия\Roboteck\obj\Debug\Roboteck.pdb
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\Properties\Dictionary1.baml
+G:\4 семестр\Курсач\Roboteck - копия\Roboteck\obj\Debug\Roboteck.csprojResolveAssemblyReference.cache
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\bin\Debug\RoboteckBase.mdf
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\bin\Debug\RoboteckBase_log.ldf
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\bin\Debug\Roboteck.exe.config
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\bin\Debug\Roboteck.exe
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\bin\Debug\Roboteck.pdb
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Roboteck.csprojAssemblyReference.cache
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\MenuPage.g.cs
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\GamePage.g.cs
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\RegistrationPage.g.cs
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\ResultRobots.g.cs
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\RoboteckMainPage.g.cs
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\SettingPage.g.cs
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\App.g.cs
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Roboteck_Content.g.cs
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Roboteck_MarkupCompile.cache
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Roboteck_MarkupCompile.lref
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\MenuPage.baml
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\GamePage.baml
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Properties\Dictionary1.baml
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\RegistrationPage.baml
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\ResultRobots.baml
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\RoboteckMainPage.baml
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\SettingPage.baml
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Roboteck.g.resources
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Roboteck.Properties.Resources.resources
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Roboteck.csproj.GenerateResource.cache
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Roboteck.csproj.CoreCompileInputs.cache
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Roboteck.exe
+C:\Users\sasha\Downloads\Roboteck - копия\Roboteck\obj\Debug\Roboteck.pdb
